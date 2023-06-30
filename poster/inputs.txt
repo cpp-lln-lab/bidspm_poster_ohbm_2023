@@ -1,0 +1,7 @@
+├── sourcedata
+│   ├── fmriprep
+│   └── raw
+├── derivatives
+│   └── bidspm-preproc
+└── models
+    └── smdl.json
