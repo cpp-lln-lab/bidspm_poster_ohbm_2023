@@ -42,11 +42,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-1866-8645"
   affiliation: "Université catholique de Louvain"
 
-- family-names: "Collignon"
-  given-names: "Olivier"
-  orcid: "https://orcid.org/0000-0003-1882-3550"
-  affiliation: "Université catholique de Louvain"
-
 - family-names: "Gurtubay"
   given-names: "Ane"
   orcid: "https://orcid.org/0000-0003-3824-2219"
@@ -104,8 +99,13 @@ authors:
   given-names:  "Jacek"
   affiliation: "Université catholique de Louvain"
   orcid: "https://orcid.org/0000-0001-9752-3294"
+  
+- family-names: "Collignon"
+  given-names: "Olivier"
+  orcid: "https://orcid.org/0000-0003-1882-3550"
+  affiliation: "Université catholique de Louvain"
 
-license: CCO
+license: 'CC-BY-3.0'
 
 keywords:
   - BIDS
