@@ -2,18 +2,18 @@ cff-version: 1.2.0
 
 title: "bidspm poster - OHBM 2023"
 
-version: 0.1.0
+version: 0.1.1
 
 abstract: bidspm is a set of pipelines and tools for Octave / MATLAB to process and analyze BIDS data sets using SPM12.
 
-message: "If you refence this poster, please cite it as below."
+message: "Please check the code at: https://github.com/cpp-lln-lab/bidspm"
 
 repository-code: "https://github.com/cpp-lln-lab/bidspm"
 
 identifiers:
-  - description: This is the collection of archived snapshots of all releases of bidspm
+  - description: This is the collection of archived snapshots of all versions of this poster
     type: doi
-    value: "10.5281/zenodo.3554331"
+    value: "10.5281/zenodo.8099835"
 
 contact:
   - affiliation: "Université catholique de Louvain"
